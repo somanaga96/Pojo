@@ -1,0 +1,17 @@
+<UserReponse>
+  <number>12</number>
+  <firstName>jren</firstName>
+  <lastName>dom</lastName>
+  <user_id>41</user_id>
+  <loans>
+    <loan_id>54</loan_id>
+    <date>10/10/1990</date>
+    <amount>2000</amount>
+  </loans>
+  <loans>
+    <loan_id>55</loan_id>
+    <date>10/10/1990</date>
+    <amount>1000</amount>
+  </loans>
+  <villageName>kan</villageName>
+</UserReponse>

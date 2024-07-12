@@ -1,0 +1,15 @@
+<ArrayList>
+    <item>
+        <!--    <userid>f5483204-c133-4c77-9595-1e95e37ffea5</userid>-->
+        <userid value="f5483204-c133-4c77-9595-1e95e37ffea5"/>
+        <number>345</number>
+        <admin>true</admin>
+        <name>soma</name>
+    </item>
+    <item>
+        <userid>b41439a7-a9e5-4522-8cce-1b9b970eb775</userid>
+        <number>345</number>
+        <admin>true</admin>
+        <name>soma</name>
+    </item>
+</ArrayList>
